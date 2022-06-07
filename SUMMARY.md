@@ -12,3 +12,4 @@
 * [Presentation topics](presentation-topics.md)
 * [Projects](projects.md)
 * [Resources](resources.md)
+* [Open Source](foss.md)
